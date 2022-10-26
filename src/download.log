@@ -1,0 +1,153 @@
+2022-10-02 10:57:05.468 | INFO     | __main__:download_era5:4 - start download: 2022-09-01 to 2022-09-02
+2022-10-02 10:57:05.473 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-01
+2022-10-02 11:02:20.403 | INFO     | __main__:download_era5:4 - start download: 2022-09-01 to 2022-09-02
+2022-10-02 11:02:20.407 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-01 00:00:00
+2022-10-02 11:02:20.407 | INFO     | __main__:down_sl:23 - Downloading single levels for sl
+2022-10-02 11:05:59.169 | INFO     | __main__:download_era5:4 - start download: 2022-09-01 to 2022-09-02
+2022-10-02 11:06:20.517 | INFO     | __main__:download_era5:4 - start download: 2022-09-01 to 2022-09-02
+2022-10-02 11:06:32.469 | INFO     | __main__:download_era5:4 - start download: 2022-09-01 to 2022-09-02
+2022-10-02 11:06:43.606 | INFO     | __main__:download_era5:4 - start download: 2022-09-01 to 2022-09-02
+2022-10-02 11:07:00.111 | INFO     | __main__:download_era5:4 - start download: 2022-09-01 to 2022-09-02
+2022-10-02 11:09:50.010 | INFO     | __main__:download_era5:4 - start download: 2022-09-01 to 2022-09-02
+2022-10-02 11:11:50.468 | INFO     | __main__:download_era5:4 - start download: 2022-09-01 to 2022-09-02
+2022-10-02 11:11:50.473 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-01
+2022-10-02 11:11:50.474 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-02
+2022-10-02 11:13:39.487 | INFO     | __main__:download_era5:4 - start download: 2022-09-01 to 2022-09-02
+2022-10-02 11:13:39.491 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-01
+2022-10-02 11:13:39.492 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-02
+2022-10-02 11:14:24.199 | INFO     | __main__:download_era5:4 - start download: 2022-09-01 to 2022-09-30
+2022-10-02 11:14:24.203 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-01
+2022-10-02 11:14:24.204 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-03
+2022-10-02 11:14:24.204 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-05
+2022-10-02 11:14:24.205 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-07
+2022-10-02 11:14:24.206 | WARNING  | __main__:down_sl:63 - /home/ubuntu/data/era5/data/2022/09/20220901_sl.grib already exists
+2022-10-02 11:14:24.214 | SUCCESS  | __main__:down_sl:64 - successfully download single levels for 2022-09-01
+2022-10-02 11:14:24.217 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-02
+2022-10-02 11:14:24.218 | WARNING  | __main__:down_sl:63 - /home/ubuntu/data/era5/data/2022/09/20220902_sl.grib already exists
+2022-10-02 11:14:24.221 | SUCCESS  | __main__:down_sl:64 - successfully download single levels for 2022-09-02
+2022-10-02 11:14:24.222 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-09
+2022-10-02 11:14:47.274 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-06
+2022-10-02 11:14:50.098 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-04
+2022-10-02 11:14:50.799 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-10
+2022-10-02 11:14:51.501 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-08
+2022-10-02 11:15:13.077 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-11
+2022-10-02 11:15:15.102 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-13
+2022-10-02 11:15:16.615 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-15
+2022-10-02 11:15:17.084 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-17
+2022-10-02 11:15:39.394 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-12
+2022-10-02 11:15:39.574 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-14
+2022-10-02 11:15:42.063 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-18
+2022-10-02 11:15:43.486 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-16
+2022-10-02 11:16:03.226 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-19
+2022-10-02 11:16:05.278 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-21
+2022-10-02 11:16:09.117 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-23
+2022-10-02 11:16:13.290 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-25
+2022-10-02 11:16:29.494 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-20
+2022-10-02 11:16:30.658 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-22
+2022-10-02 11:16:39.065 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-24
+2022-10-02 11:16:39.450 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-26
+2022-10-02 11:16:54.450 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-27
+2022-10-02 11:16:56.060 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-29
+2022-10-02 11:19:50.088 | INFO     | __main__:download_era5:4 - start download: 2022-09-27 to 2022-09-30
+2022-10-02 11:19:50.092 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-27
+2022-10-02 11:19:50.093 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-28
+2022-10-02 11:19:50.093 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-29
+2022-10-02 11:19:50.094 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-30
+2022-10-03 12:48:41.025 | INFO     | __main__:download_era5:4 - start download: 2022-09-27 to 2022-09-27
+2022-10-03 12:48:41.029 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-27
+2022-10-04 15:56:10.066 | INFO     | __main__:download_era5:4 - start download: 2022-09-01 to 2022-09-29
+2022-10-04 15:56:10.095 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-01
+2022-10-04 15:56:10.097 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-03
+2022-10-04 15:56:10.102 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-05
+2022-10-04 15:56:10.105 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-07
+2022-10-04 15:56:25.234 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-02
+2022-10-04 15:56:35.994 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-08
+2022-10-04 15:56:36.058 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-06
+2022-10-04 15:56:37.134 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-04
+2022-10-04 15:56:42.518 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-09
+2022-10-04 15:56:52.602 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-11
+2022-10-04 15:57:01.778 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-13
+2022-10-04 15:57:01.958 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-15
+2022-10-04 15:57:07.478 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-10
+2022-10-04 15:57:17.102 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-12
+2022-10-04 15:57:22.755 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-17
+2022-10-04 15:57:26.983 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-16
+2022-10-04 15:57:28.198 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-14
+2022-10-04 15:57:33.478 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-19
+2022-10-04 15:57:43.250 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-21
+2022-10-04 15:57:47.610 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-18
+2022-10-04 15:57:51.629 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-23
+2022-10-04 15:57:56.750 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-20
+2022-10-04 15:57:59.498 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-22
+2022-10-04 15:58:06.765 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-24
+2022-10-04 15:58:12.886 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-25
+2022-10-04 15:58:21.398 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-27
+2022-10-04 15:58:24.909 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-29
+2022-10-04 15:58:29.997 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-26
+2022-10-04 15:58:37.859 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-28
+2022-10-04 16:00:41.592 | INFO     | __main__:download_era5:4 - start download: 2022-09-29 to 2022-09-29
+2022-10-04 16:00:41.596 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-29
+2022-10-04 16:01:01.865 | INFO     | __main__:download_era5:4 - start download: 2022-09-28 to 2022-09-28
+2022-10-04 16:01:01.869 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-28
+2022-10-04 16:01:01.871 | WARNING  | __main__:down_sl:63 - /home/ubuntu/data/era5/data/2022/09/20220928_sl.grib already exists
+2022-10-04 16:01:01.873 | SUCCESS  | __main__:down_sl:64 - successfully download single levels for 2022-09-28
+2022-10-04 16:01:19.955 | INFO     | __main__:prepare_csv:46 - begin the process to save the training data file: 20220901060000_3.csv
+2022-10-04 16:01:19.956 | INFO     | __main__:prepare_csv:46 - begin the process to save the training data file: 20220901060000_6.csv
+2022-10-04 16:01:19.957 | INFO     | __main__:prepare_csv:46 - begin the process to save the training data file: 20220901060000_9.csv
+2022-10-04 16:01:19.957 | INFO     | __main__:prepare_csv:46 - begin the process to save the training data file: 20220901060000_12.csv
+2022-10-04 16:05:29.499 | INFO     | __main__:download_era5:4 - start download: 2022-09-01 to 2022-09-28
+2022-10-04 16:05:29.503 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-01
+2022-10-04 16:05:29.504 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-03
+2022-10-04 16:05:29.504 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-05
+2022-10-04 16:05:29.508 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-07
+2022-10-04 16:05:56.515 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-08
+2022-10-04 16:05:56.746 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-02
+2022-10-04 16:05:57.027 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-04
+2022-10-04 16:05:58.025 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-06
+2022-10-04 16:06:22.457 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-09
+2022-10-04 16:06:23.274 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-11
+2022-10-04 16:06:24.684 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-13
+2022-10-04 16:06:25.630 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-15
+2022-10-04 16:06:50.092 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-12
+2022-10-04 16:06:50.251 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-10
+2022-10-04 16:06:52.395 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-16
+2022-10-04 16:06:52.418 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-14
+2022-10-04 16:07:15.203 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-17
+2022-10-04 16:07:19.325 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-19
+2022-10-04 16:07:20.366 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-21
+2022-10-04 16:07:23.503 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-23
+2022-10-04 16:07:37.978 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-18
+2022-10-04 16:07:47.011 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-22
+2022-10-04 16:07:50.390 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-24
+2022-10-04 16:08:03.281 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-25
+2022-10-04 16:08:14.942 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-27
+2022-10-04 16:08:29.095 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-26
+2022-10-04 16:09:49.113 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-28
+2022-10-04 16:10:30.075 | INFO     | __main__:down_sl:23 - Downloading single levels for 2022-09-20
+2022-10-04 16:11:13.883 | INFO     | __main__:prepare_csv:46 - begin the process to save the training data file: 20220901060000_3.csv
+2022-10-04 16:11:13.885 | INFO     | __main__:prepare_csv:46 - begin the process to save the training data file: 20220901060000_6.csv
+2022-10-04 16:11:13.885 | INFO     | __main__:prepare_csv:46 - begin the process to save the training data file: 20220901060000_9.csv
+2022-10-23 13:08:01.494 | INFO     | __main__:prepare_csv:58 - begin the process to save the training data file: 20220901060000_9.csv
+2022-10-23 13:08:01.494 | INFO     | __main__:prepare_csv:58 - begin the process to save the training data file: 20220901060000_3.csv
+2022-10-23 13:08:01.495 | INFO     | __main__:prepare_csv:58 - begin the process to save the training data file: 20220901060000_12.csv
+2022-10-23 13:08:01.494 | INFO     | __main__:prepare_csv:58 - begin the process to save the training data file: 20220901060000_6.csv
+2022-10-23 13:08:50.534 | SUCCESS  | __main__:prepare_csv:105 - 20220901060000_3.csv done
+2022-10-23 13:08:50.585 | INFO     | __main__:prepare_csv:58 - begin the process to save the training data file: 20220901060000_15.csv
+2022-10-23 13:08:51.338 | SUCCESS  | __main__:prepare_csv:105 - 20220901060000_6.csv done
+2022-10-23 13:08:51.361 | INFO     | __main__:prepare_csv:58 - begin the process to save the training data file: 20220901060000_18.csv
+2022-10-23 13:08:51.446 | SUCCESS  | __main__:prepare_csv:105 - 20220901060000_12.csv done
+2022-10-23 13:08:51.468 | INFO     | __main__:prepare_csv:58 - begin the process to save the training data file: 20220901060000_21.csv
+2022-10-23 13:08:52.657 | SUCCESS  | __main__:prepare_csv:105 - 20220901060000_9.csv done
+2022-10-23 13:08:52.669 | INFO     | __main__:prepare_csv:58 - begin the process to save the training data file: 20220901060000_24.csv
+2022-10-23 13:09:37.975 | SUCCESS  | __main__:prepare_csv:105 - 20220901060000_15.csv done
+2022-10-23 13:09:37.983 | WARNING  | __main__:prepare_csv:56 - 20220901000000_3.csv exists
+2022-10-23 13:09:37.996 | WARNING  | __main__:prepare_csv:56 - 20220901000000_6.csv exists
+2022-10-23 13:09:37.999 | WARNING  | __main__:prepare_csv:56 - 20220901000000_9.csv exists
+2022-10-23 13:09:38.006 | WARNING  | __main__:prepare_csv:56 - 20220901000000_12.csv exists
+2022-10-23 13:09:38.009 | WARNING  | __main__:prepare_csv:56 - 20220901000000_15.csv exists
+2022-10-23 13:09:38.016 | WARNING  | __main__:prepare_csv:56 - 20220901000000_18.csv exists
+2022-10-23 13:09:38.020 | WARNING  | __main__:prepare_csv:56 - 20220901000000_21.csv exists
+2022-10-23 13:09:38.023 | WARNING  | __main__:prepare_csv:56 - 20220901000000_24.csv exists
+2022-10-23 13:09:39.900 | SUCCESS  | __main__:prepare_csv:105 - 20220901060000_18.csv done
+2022-10-23 13:09:40.172 | SUCCESS  | __main__:prepare_csv:105 - 20220901060000_24.csv done
+2022-10-23 13:09:40.257 | SUCCESS  | __main__:prepare_csv:105 - 20220901060000_21.csv done
