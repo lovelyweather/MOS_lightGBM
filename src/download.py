@@ -7,7 +7,6 @@ import os
 import time  
 from datetime import datetime, timedelta  
 from multiprocessing.dummy import Pool  
-from typing import List, Tuple  
 
 import cdsapi  
 from loguru import logger 

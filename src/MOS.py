@@ -16,7 +16,7 @@ import dask.dataframe as dd
 from dask.distributed import Client
 
 '''
-需要改存储地址地址，下载时间，需要考虑的varname（暂时不改），会自动处理成cvs。
+需要改存储地址地址、下载时间、需要考虑的varname（暂时不改），会自动处理成cvs。
 '''
 # download data
 save_dir = '/d/work/data'
@@ -70,11 +70,10 @@ X, y = train.process_X_y(var_MOS = 't2m')
 X_train, X_test, y_train, y_test = train_test_split(X, y,
      random_state=0, test_size = 0.2)
 
-# train
+# train, save model
 train.gen_model(X_train, y_train, var_MOS = 't2m', search_cv = None, is_save_model = True)
 
 # predict!
-
 for i, i_var_era5 in enumerate(["t2m"]):
     # 读取预测模型
     with open(os.path.join(cfg.model_dir, f"{i_var_era5}_lgb.pkl"), "rb") as f:
